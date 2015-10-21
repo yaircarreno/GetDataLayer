@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GetDataLayer</string>
+    <string name="text_label">Texto recibido del Smartphone</string>
+</resources>
